@@ -1,7 +1,7 @@
 package channel
 
 import (
-	"stash.ea.com/scm/exos/server/lib/sys/broadcaster"
+	"github.com/jacygao/broadcaster"
 	"sync"
 )
 

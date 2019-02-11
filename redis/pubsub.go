@@ -2,7 +2,7 @@ package redis
 
 import (
 	"github.com/go-redis/redis"
-	"stash.ea.com/scm/exos/server/lib/sys/broadcaster"
+	"github.com/jacygao/broadcaster"
 	"sync"
 )
 
